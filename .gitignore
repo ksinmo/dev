@@ -1,1 +1,7 @@
 node_modules
+#eclipse java
+.backup
+.m2
+.metadata
+.recommenders
+target
